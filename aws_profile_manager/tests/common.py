@@ -9,8 +9,8 @@ class TestCommon(unittest.TestCase):
         test_data = {
                             'default': 
                                 {
-                                    'aws_access_key_id': 'AKIAYYYYYYYYYYYYYYYY',
-                                    'aws_secret_access_key': 'yYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyY'
+                                    'aws_access_key_id': 'AKIA837F92D2K9UF7YDC',
+                                    'aws_secret_access_key': '9IJ7D73638HFU76X0KV8JKS21KIGHCYJEI98WWQA'
                                 },
                             'test1': 
                                 {
